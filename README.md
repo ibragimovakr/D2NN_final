@@ -1,7 +1,7 @@
 # D2NN — Diffractive Deep Neural Network
 
 > **Optical implementation of a deep neural network via phase-modulating diffractive layers**  
-> *Rodion Akinzhala, Ibragimova Ksenia*
+> *Ibragimova Kseniia, Rodion Akinzhala*
 
 ---
 
